@@ -1,3 +1,2 @@
 # dhcp
-example dhcp configuration
-isc-dhcp-server
+example dhcp configuration for a isc-dhcp-server
