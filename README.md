@@ -1,3 +1,3 @@
 # dhcp
 example dhcp configuration
-'''isc-dhcp-server'''
+isc-dhcp-server
